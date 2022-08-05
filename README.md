@@ -1,2 +1,2 @@
-# Sentiment_Analysis
-Sentiment Analysis of IMDB Dataset using Transformers
+# Text_Classification
+Text Classification of IMDB Dataset using Transformers
